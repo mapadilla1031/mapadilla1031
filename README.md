@@ -3,20 +3,29 @@
 ```markdown
 # Hi there, I'm Marko 👋
 
-🎓 I'm a Computer Science major with a passion for building cool and useful things through code.  
-💻 I enjoy programming in:
+🎓 I have a B.S. in Computer Science, with a strong interest in software development, cybersecurity, and systems programming.  
+💻 I enjoy designing and building applications, tools, and systems that solve real-world problems — from full-stack web APIs to mobile apps and automation scripts.
 
-- Java ☕  
-- Python 🐍  
-- C 🔧  
-- Dart 🐦 (mostly for Flutter apps!)  
-- Scala ⚙️  
+🧠 I’ve worked with:
 
-I'm always learning, building, and exploring new technologies.  
-Feel free to check out my repositories and projects!
+- **Java**, **Python**, and **C** for backend development and system-level tasks  
+- **Dart & Flutter** for mobile app development  
+- **Scala** for functional programming and academic projects  
+- Tools like **SQLMap**, **Burp Suite**, and **Docker** for security-focused and containerized environments
 
-📫 Let's connect!  
-You can reach me via GitHub or any contact info I include in my pinned repositories.
+🛠️ I'm skilled at:
+- Writing clean, maintainable code
+- Building RESTful APIs and CLI tools
+- Creating Flutter mobile UIs
+- Debugging, testing, and improving performance
+- Working in Linux-based development environments
+
+🌱 I'm currently expanding my knowledge in:
+- Cloud platforms (AWS, Azure)
+- Machine learning integration
+- Open-source contributions
+
+📫 Let’s connect — check out my repositories or reach out through pinned contact links.
 
 ---
 
