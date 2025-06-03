@@ -4,14 +4,13 @@
 # Hi there, I'm Marko 👋
 
 🎓 I have a B.S. in Computer Science, with a strong interest in software development, cybersecurity, and systems programming.  
-💻 I enjoy designing and building applications, tools, and systems that solve real-world problems — from full-stack web APIs to mobile apps and automation scripts.
+💻 I enjoy designing and building applications, tools, and systems that solve real world problems from full stack web APIs to mobile apps and automation scripts.
 
 🧠 I’ve worked with:
 
-- **Java**, **Python**, and **C** for backend development and system-level tasks  
-- **Dart & Flutter** for mobile app development  
-- **Scala** for functional programming and academic projects  
-- Tools like **SQLMap**, **Burp Suite**, and **Docker** for security-focused and containerized environments
+- Java, Python, and C for backend development and system-level tasks  
+- Dart & Flutter for mobile app development  
+- Scala for functional programming and academic projects  
 
 🛠️ I'm skilled at:
 - Writing clean, maintainable code
