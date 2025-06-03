@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**mapadilla1031/mapadilla1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```markdown
+# Hi there, I'm Marko 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a Computer Science major with a passion for building cool and useful things through code.  
+💻 I enjoy programming in:
+
+- Java ☕  
+- Python 🐍  
+- C 🔧  
+- Dart 🐦 (mostly for Flutter apps!)  
+- Scala ⚙️  
+
+I'm always learning, building, and exploring new technologies.  
+Feel free to check out my repositories and projects!
+
+📫 Let's connect!  
+You can reach me via GitHub or any contact info I include in my pinned repositories.
+
+---
+
+> ““If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra
+```
+
+
