@@ -8,7 +8,7 @@
 
 🧠 I’ve worked with:
 
-- Java, Python, and C for backend development and system-level tasks  
+- Java, Python, and C for backend development and system level tasks  
 - Dart & Flutter for mobile app development  
 - Scala for functional programming and academic projects  
 
@@ -22,13 +22,13 @@
 🌱 I'm currently expanding my knowledge in:
 - Cloud platforms (AWS, Azure)
 - Machine learning integration
-- Open-source contributions
+- Open source contributions
 
-📫 Let’s connect — check out my repositories or reach out through pinned contact links.
+📫 Let’s connect — check out my repositories or reach out through contact links.
 
 ---
 
-> ““If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra
+> ““"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it."”  Edsger W. Dijkstra
 ```
 
 
