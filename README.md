@@ -17,7 +17,7 @@
 - Building RESTful APIs and CLI tools
 - Creating Flutter mobile UIs
 - Debugging, testing, and improving performance
-- Working in Linux-based development environments
+- Working in Linux based development environments
 
 🌱 I'm currently expanding my knowledge in:
 - Cloud platforms (AWS, Azure)
@@ -26,7 +26,7 @@
 
 📫 Let’s connect — check out my repositories or reach out through contact links.
 
----
+https://www.linkedin.com/in/marko-padilla31/
 
 > “Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it."  Edsger W. Dijkstra
 ```
