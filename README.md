@@ -24,9 +24,10 @@
 - Machine learning integration
 - Open source contributions
 
-📫 Let’s connect — check out my repositories or reach out through contact links.
+📫 Let’s connect:
 
 https://www.linkedin.com/in/marko-padilla31/
+Email: markopadilla@proton.me
 
 > “Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it."  Edsger W. Dijkstra
 ```
