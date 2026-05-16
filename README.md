@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mapadilla1031.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Marko+%F0%9F%91%8B;Software+Developer;Mobile+Applications;Cybersecurity+Enthusiast;Full-Stack+%E2%86%92+Mobile+%E2%86%92+Systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Marko+%F0%9F%91%8B;Software+Developer;Mobile+Applications;Cybersecurity+Enthusiast;Full-Stack+%E2%86%92+%E2%86%92+Systems" alt="Typing intro" />
 </a>
 
 <p>
