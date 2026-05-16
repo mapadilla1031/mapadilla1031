@@ -25,7 +25,7 @@
 - Open source contributions
 
 📫 Let’s connect:
-https://mapadilla1031.github.io/
+Personal Website -> https://mapadilla1031.github.io/
 
 https://www.linkedin.com/in/marko-padilla31/
 Email: markopadilla@proton.me
